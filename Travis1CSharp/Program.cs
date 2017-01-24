@@ -14,7 +14,7 @@ namespace Travis1CSharp
 
         public static bool True()
         {
-            return true;
+            return 2==2;
         }
     }
 }
